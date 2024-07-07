@@ -7,7 +7,7 @@ const apiGenreURL = 'https://api.thegamesdb.net/v1/Genres?apikey=6fb386e1d16b897
 const apiPlatformURL = 'https://api.thegamesdb.net/v1/Platforms?apikey=6fb386e1d16b897ddc25ddbd9e2e93e0efedadc9e89093d7419258c8633e2560';
 let apiGamesURL = `https://api.thegamesdb.net/v1.1/Games/ByGameName?apikey=6fb386e1d16b897ddc25ddbd9e2e93e0efedadc9e89093d7419258c8633e2560&name=${searchTerm}&fields=genres&filter%5Bplatform%5D=2%2C%203%2C%204%2C%205%2C%206%2C%207%2C%208%2C%209%2C%2038%2C%2041%2C%204912%2C%204971&include=boxart`;
 
-const apiKey = '6fb386e1d16b897ddc25ddbd9e2e93e0efedadc9e89093d7419258c8633e2560' //private key
+const apiKey = '' // replace with private key
 
 async function fetchGenreAPI() {
     try {
