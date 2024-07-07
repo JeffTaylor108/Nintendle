@@ -1,0 +1,32 @@
+table {
+    table-layout: fixed;
+}
+
+th, td {
+    border: 1px solid black;
+    padding: 10px;
+    text-align: center;
+}
+
+.boxart {
+    display: block;
+    margin: 0 auto;
+    margin-bottom: 3%;
+    width: 50%;
+    height: 50%;
+}
+
+.release-date-arrow {
+    display: block;
+    margin: 0 auto;
+    text-align: center;
+    width: 40%;
+    height: 40%;
+}
+
+.franchise-icons {
+    width: 25px;
+    height: 25px;
+    text-align: center;
+    vertical-align: middle;
+}

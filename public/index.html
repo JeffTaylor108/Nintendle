@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Nintendle</title>
+
+    <!-- jQuery -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+
+    <!-- jQuery UI -->
+    <link rel="stylesheet" href="https://ajax.googleapis.com/ajax/libs/jqueryui/1.12.1/themes/smoothness/jquery-ui.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.12.1/jquery-ui.min.js"></script>
+
+    
+    <script src="app_test_copy.js"></script>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <h1 id="title">Nintendle</h1>
+
+    <form onsubmit="checkGuess(); return false;">
+        <label>Guess today's Nintendo game:</label><br><br>
+        <input type="text" id="guessInput"><br><br>
+        <button type="submit" id="guessButton">Guess</button>
+    </form>
+    <br><br><br>
+
+    <table id="gamesTable" width="75%" style="border:2px solid;background-color:#add8e6;border-collapse:collapse;">
+        <tr>
+            <th>Game</th>
+            <th>Console Release</th>
+            <th>Franchise</th>
+            <th>Genre</th>
+            <th>Release Date</th>
+        </tr>
+    </table>
+    <br><br>
+
+    <p id="franchiseOptionsText">If you would only like to guess for certain franchises, select the franchises you would like to include when generating a solution: </p>
+
+    <label for="pokemon">
+        <input type="checkbox" id="pokemon" name="franchiseOptions" value="Pokemon">
+        <img src="https://ssb.wiki.gallery/images/c/ca/PokemonSymbol.svg" class="franchise-icons">
+        Pokemon
+    </label><br>
+    <label for="mario">
+        <input type="checkbox" id="mario" name="franchiseOptions" value="Mario">
+        <img src="https://ssb.wiki.gallery/images/3/30/MarioSymbol.svg" class="franchise-icons">
+        Mario
+    </label><br>
+    <label for="zelda">
+        <input type="checkbox" id="zelda" name="franchiseOptions" value="Zelda">
+        <img src="https://ssb.wiki.gallery/images/7/74/ZeldaSymbol.svg" class="franchise-icons">
+        The Legend of Zelda
+    </label><br>
+    <label for="kirby">
+        <input type="checkbox" id="kirby" name="franchiseOptions" value="Kirby">
+        <img src="https://ssb.wiki.gallery/images/0/0e/KirbySymbol.svg" class="franchise-icons">
+        Kirby
+    </label><br>
+    <label for="pikmin">
+        <input type="checkbox" id="pikmin" name="franchiseOptions" value="Pikmin">
+        <img src="https://ssb.wiki.gallery/images/6/61/PikminSymbol.svg" class="franchise-icons">
+        Pikmin
+    </label><br>
+    <label for="metroid">
+        <input type="checkbox" id="metroid" name="franchiseOptions" value="Metroid">
+        <img src="https://ssb.wiki.gallery/images/4/41/MetroidSymbol.svg" class="franchise-icons">
+        Metroid
+    </label><br>
+    <label for="fire_emblem">
+        <input type="checkbox" id="fire_emblem" name="franchiseOptions" value="Fire Emblem">
+        <img src="https://ssb.wiki.gallery/images/2/2a/FireEmblemSymbol.svg" class="franchise-icons">
+        Fire Emblem
+    </label><br>
+    <label for="animal_crossing">
+        <input type="checkbox" id="animal_crossing" name="franchiseOptions" value="Animal Crossing">
+        <img src="https://ssb.wiki.gallery/images/e/e9/AnimalCrossingSymbol.svg" class="franchise-icons">
+        Animal Crossing
+    </label><br>
+    <label for="smash_bros">
+        <input type="checkbox" id="smash_bros" name="franchiseOptions" value="Super Smash Bros">
+        <img src="https://ssb.wiki.gallery/images/c/c2/SmashBrosSymbol.svg" class="franchise-icons">
+        Super Smash Bros.
+    </label>
+    <br><br>
+
+    <button onclick="generateNewSolution();" id="newSolutionButton">Generate new solution</button>
+</body>
+</html>

@@ -1,0 +1,2558 @@
+{
+"games": [
+{
+  "id": 13556,
+  "game_title": "Pokemon Black Version 2",
+  "release_date": "2012",
+  "platform": 8,
+  "region_id": 1,
+  "country_id": 0,
+  "developers": [
+    3314
+  ],
+  "genres": [
+    2,
+    4,
+    6
+  ]
+},
+{
+  "id": 23587,
+  "game_title": "Pokemon Alpha Sapphire",
+  "release_date": "2014",
+  "platform": 4912,
+  "region_id": 1,
+  "country_id": 0,
+  "developers": [
+    3314
+  ],
+  "genres": [
+    2,
+    4,
+    6
+  ]
+},
+{
+  "id": 2370,
+  "game_title": "Pokemon Black Version",
+  "release_date": "2011",
+  "platform": 8,
+  "region_id": 1,
+  "country_id": 50,
+  "developers": [
+    3314
+  ],
+  "genres": [
+    4,
+    6
+  ]
+},
+{
+  "id": 2357,
+  "game_title": "Pokemon Blue Version",
+  "release_date": "1998",
+  "platform": 4,
+  "region_id": 1,
+  "country_id": 50,
+  "developers": [
+    3314
+  ],
+  "genres": [
+    4,
+    6
+  ]
+},
+{
+  "id": 83445,
+  "game_title": "Pokemon Brilliant Diamond",
+  "release_date": "2021",
+  "platform": 4971,
+  "region_id": 1,
+  "country_id": 0,
+  "developers": [
+    10686
+  ],
+  "genres": [
+    2,
+    4,
+    6
+  ]
+},
+{
+  "id": 102232,
+  "game_title": "Pokemon Colosseum",
+  "release_date": "2004",
+  "platform": 2,
+  "region_id": 4,
+  "country_id": 0,
+  "developers": [
+    3448
+  ],
+  "genres": [
+    6,
+    10
+  ]
+},
+{
+  "id": 11395,
+  "game_title": "Pokemon: Conquest",
+  "release_date": "2012",
+  "platform": 8,
+  "region_id": 1,
+  "country_id": 0,
+  "developers": [
+    3314,
+    8615
+  ],
+  "genres": [
+    4,
+    6
+  ]
+},
+{
+  "id": 2362,
+  "game_title": "Pokemon Crystal Version",
+  "release_date": "2001",
+  "platform": 41,
+  "region_id": 1,
+  "country_id": 8,
+  "developers": [
+    3314
+  ],
+  "genres": [
+    4,
+    6
+  ]
+},
+{
+  "id": 1539,
+  "game_title": "Pokemon Diamond Version",
+  "release_date": "2007",
+  "platform": 8,
+  "region_id": 2,
+  "country_id": 50,
+  "developers": [
+    3314
+  ],
+  "genres": [
+    4,
+    6
+  ]
+},
+{
+  "id": 2365,
+  "game_title": "Pokemon Emerald Version",
+  "release_date": "2005",
+  "platform": 5,
+  "region_id": 1,
+  "country_id": 0,
+  "developers": [
+    3314
+  ],
+  "genres": [
+    2,
+    4
+  ]
+},
+{
+  "id": 2368,
+  "game_title": "Pokemon HeartGold Version",
+  "release_date": "2010",
+  "platform": 8,
+  "region_id": 1,
+  "country_id": 0,
+  "developers": [
+    3314
+  ],
+  "genres": [
+    2,
+    4
+  ]
+},
+{
+  "id": 113441,
+  "game_title": "Pokemon Pearl Version",
+  "release_date": "2007",
+  "platform": 8,
+  "region_id": 6,
+  "country_id": 0,
+  "developers": [
+    3314
+  ],
+  "genres": [
+    2,
+    4
+  ]
+},
+{
+  "id": 2369,
+  "game_title": "Pokemon SoulSilver Version",
+  "release_date": "2010",
+  "platform": 8,
+  "region_id": 1,
+  "country_id": 0,
+  "developers": [
+    3314
+  ],
+  "genres": [
+    2,
+    4,
+    6
+  ]
+},
+{
+  "id": 3490,
+  "game_title": "Pokemon FireRed Version",
+  "release_date": "2004",
+  "platform": 5,
+  "region_id": 1,
+  "country_id": 0,
+  "developers": [
+    3314
+  ],
+  "genres": [
+    2,
+    4
+  ]
+},
+{
+  "id": 3490,
+  "game_title": "Pokemon LeafGreen Version",
+  "release_date": "2004",
+  "platform": 5,
+  "region_id": 1,
+  "country_id": 0,
+  "developers": [
+    3314
+  ],
+  "genres": [
+    2,
+    4
+  ]
+},
+{
+  "id": 2363,
+  "game_title": "Pokemon Ruby Version",
+  "release_date": "2003",
+  "platform": 5,
+  "region_id": 1,
+  "country_id": 50,
+  "developers": [
+    3314
+  ],
+  "genres": [
+    2,
+    4
+  ]
+},
+{
+  "id": 2364,
+  "game_title": "Pokemon Sapphire Version",
+  "release_date": "2003",
+  "platform": 5,
+  "region_id": 1,
+  "country_id": 0,
+  "developers": [
+    3314
+  ],
+  "genres": [
+    2,
+    4
+  ]
+},
+{
+  "id": 2360,
+  "game_title": "Pokemon Gold Version",
+  "release_date": "2000",
+  "platform": 41,
+  "region_id": 9,
+  "country_id": 50,
+  "developers": [
+    3314
+  ],
+  "genres": [
+    4,
+    6
+  ]
+},
+{
+  "id": 119143,
+  "game_title": "Pokemon HeartGold Version",
+  "release_date": "2010",
+  "platform": 8,
+  "region_id": 6,
+  "country_id": 4,
+  "developers": [
+    3314
+  ],
+  "genres": [
+    2,
+    4
+  ]
+},
+{
+  "id": 118854,
+  "game_title": "Pokemon Legends: Arceus",
+  "release_date": "2022",
+  "platform": 4971,
+  "region_id": 6,
+  "country_id": 4,
+  "developers": [
+    3314
+  ],
+  "genres": [
+    1,
+    2,
+    4
+  ]
+},
+{
+  "id": 41159,
+  "game_title": "Pokemon Moon",
+  "release_date": "2016",
+  "platform": 4912,
+  "region_id": 1,
+  "country_id": 0,
+  "developers": [
+    3314
+  ],
+  "genres": [
+    2,
+    4,
+    6
+  ]
+},
+{
+  "id": 33562,
+  "game_title": "Pokemon Super Mystery Dungeon",
+  "release_date": "2015",
+  "platform": 4912,
+  "region_id": 1,
+  "country_id": 0,
+  "developers": [
+    8063
+  ],
+  "genres": [
+    2,
+    4
+  ]
+},
+{
+  "id": 87256,
+  "game_title": "Pokemon Mystery Dungeon: Blue Rescue Team",
+  "release_date": "2006",
+  "platform": 38,
+  "region_id": 1,
+  "country_id": 0,
+  "developers": [
+    1637
+  ],
+  "genres": [
+    2,
+    4,
+    27
+  ]
+},
+{
+  "id": 2375,
+  "game_title": "Pokemon Mystery Dungeon: Explorers of Darkness",
+  "release_date": "2008",
+  "platform": 8,
+  "region_id": 0,
+  "country_id": 0,
+  "developers": [
+    1637
+  ],
+  "genres": [
+    4
+  ]
+},
+{
+  "id": 21454,
+  "game_title": "Pokemon Mystery Dungeon: Explorers of Sky",
+  "release_date": "2009",
+  "platform": 8,
+  "region_id": 1,
+  "country_id": 0,
+  "developers": [
+    1637
+  ],
+  "genres": [
+    2,
+    4,
+    6
+  ]
+},
+{
+  "id": 2374,
+  "game_title": "Pokemon Mystery Dungeon: Explorers of Time",
+  "release_date": "2008",
+  "platform": 8,
+  "region_id": 0,
+  "country_id": 0,
+  "developers": [
+    1637
+  ],
+  "genres": [
+    4
+  ]
+},
+{
+  "id": 16398,
+  "game_title": "Pokemon Mystery Dungeon: Gates to Infinity",
+  "release_date": "2013",
+  "platform": 4912,
+  "region_id": 0,
+  "country_id": 0,
+  "developers": [
+    6037
+  ],
+  "genres": [
+    4
+  ]
+},
+{
+  "id": 2372,
+  "game_title": "Pokemon Mystery Dungeon: Red Rescue Team",
+  "release_date": "2006",
+  "platform": 5,
+  "region_id": 0,
+  "country_id": 0,
+  "developers": [
+    1637
+  ],
+  "genres": [
+    4
+  ]
+},
+{
+  "id": 68444,
+  "game_title": "Pokemon Mystery Dungeon: Rescue Team DX",
+  "release_date": "2020",
+  "platform": 4971,
+  "region_id": 0,
+  "country_id": 0,
+  "developers": [
+    3314
+  ],
+  "genres": [
+    2,
+    4
+  ]
+},
+{
+  "id": 23586,
+  "game_title": "Pokemon Omega Ruby",
+  "release_date": "2014",
+  "platform": 4912,
+  "region_id": 1,
+  "country_id": 0,
+  "developers": [
+    3314
+  ],
+  "genres": [
+    2,
+    4,
+    6
+  ]
+},
+{
+  "id": 117296,
+  "game_title": "Pokemon Platinum Version",
+  "release_date": "2009",
+  "platform": 8,
+  "region_id": 6,
+  "country_id": 0,
+  "developers": [
+    3314
+  ],
+  "genres": [
+    4
+  ]
+},
+{
+  "id": 2356,
+  "game_title": "Pokemon Red Version",
+  "release_date": "1998",
+  "platform": 4,
+  "region_id": 1,
+  "country_id": 50,
+  "developers": [
+    3314
+  ],
+  "genres": [
+    4,
+    6
+  ]
+},
+{
+  "id": 24441,
+  "game_title": "Pokemon Rumble",
+  "release_date": "2009",
+  "platform": 9,
+  "region_id": 1,
+  "country_id": 0,
+  "developers": [
+    423
+  ],
+  "genres": [
+    1,
+    2
+  ]
+},
+{
+  "id": 12725,
+  "game_title": "Pokemon Rumble Blast",
+  "release_date": "2011",
+  "platform": 4912,
+  "region_id": 1,
+  "country_id": 0,
+  "developers": [
+    423
+  ],
+  "genres": [
+    1,
+    4
+  ]
+},
+{
+  "id": 68079,
+  "game_title": "Pokemon Rumble U",
+  "release_date": "2013",
+  "platform": 38,
+  "region_id": 9,
+  "country_id": 0,
+  "developers": null,
+  "genres": [
+    1,
+    2,
+    4,
+    27
+  ]
+},
+{
+  "id": 42979,
+  "game_title": "Pokemon Rumble World",
+  "release_date": "2016",
+  "platform": 4912,
+  "region_id": 1,
+  "country_id": 0,
+  "developers": [
+    423
+  ],
+  "genres": [
+    1,
+    4
+  ]
+},
+{
+  "id": 111118,
+  "game_title": "Pokemon Sapphire Version",
+  "release_date": "2003",
+  "platform": 5,
+  "region_id": 6,
+  "country_id": 0,
+  "developers": [
+    3314
+  ],
+  "genres": [
+    2,
+    4
+  ]
+},
+{
+  "id": 104565,
+  "game_title": "Pokemon Scarlet",
+  "release_date": "2022",
+  "platform": 4971,
+  "region_id": 2,
+  "country_id": 0,
+  "developers": [
+    3314
+  ],
+  "genres": [
+    2,
+    4
+  ]
+},
+{
+  "id": 63676,
+  "game_title": "Pokemon Shield",
+  "release_date": "2019",
+  "platform": 4971,
+  "region_id": 2,
+  "country_id": 50,
+  "developers": [
+    3314
+  ],
+  "genres": [
+    2,
+    4,
+    6
+  ]
+},
+{
+  "id": 118857,
+  "game_title": "Pokemon Shining Pearl",
+  "release_date": "2021",
+  "platform": 4971,
+  "region_id": 6,
+  "country_id": 4,
+  "developers": [
+    10686
+  ],
+  "genres": [
+    2,
+    4,
+    6
+  ]
+},
+{
+  "id": 2361,
+  "game_title": "Pokemon Silver Version",
+  "release_date": "2000",
+  "platform": 41,
+  "region_id": 9,
+  "country_id": 50,
+  "developers": [
+    3314
+  ],
+  "genres": [
+    4,
+    6
+  ]
+},
+{
+  "id": 390,
+  "game_title": "Pokemon Snap",
+  "release_date": "1999",
+  "platform": 3,
+  "region_id": 1,
+  "country_id": 50,
+  "developers": [
+    3694,
+    6487
+  ],
+  "genres": [
+    8,
+    9
+  ]
+},
+{
+  "id": 391,
+  "game_title": "Pokemon Stadium",
+  "release_date": "2000",
+  "platform": 3,
+  "region_id": 1,
+  "country_id": 50,
+  "developers": [
+    3697,
+    6043
+  ],
+  "genres": [
+    6
+  ]
+},
+{
+  "id": 41158,
+  "game_title": "Pokemon Sun",
+  "release_date": "2016",
+  "platform": 4912,
+  "region_id": 0,
+  "country_id": 0,
+  "developers": [
+    3314
+  ],
+  "genres": [
+    2,
+    4,
+    6
+  ]
+},
+{
+  "id": 118789,
+  "game_title": "Pokemon Sword",
+  "release_date": "2019",
+  "platform": 4971,
+  "region_id": 6,
+  "country_id": 4,
+  "developers": [
+    3314
+  ],
+  "genres": [
+    2,
+    4
+  ]
+},
+{
+  "id": 50897,
+  "game_title": "Pokemon Ultra Moon",
+  "release_date": "2017",
+  "platform": 4912,
+  "region_id": 2,
+  "country_id": 0,
+  "developers": [
+    3314
+  ],
+  "genres": [
+    4
+  ]
+},
+{
+  "id": 50896,
+  "game_title": "Pokemon Ultra Sun",
+  "release_date": "2017",
+  "platform": 4912,
+  "region_id": 2,
+  "country_id": 0,
+  "developers": [
+    3314
+  ],
+  "genres": [
+    2,
+    4,
+    6
+  ]
+},
+{
+  "id": 102846,
+  "game_title": "Pokemon White Version",
+  "release_date": "2011",
+  "platform": 8,
+  "region_id": 6,
+  "country_id": 0,
+  "developers": [
+    3314
+  ],
+  "genres": [
+    2,
+    4,
+    6
+  ]
+},
+{
+  "id": 104566,
+  "game_title": "Pokemon Violet",
+  "release_date": "2022",
+  "platform": 4971,
+  "region_id": 2,
+  "country_id": 0,
+  "developers": [
+    3314
+  ],
+  "genres": [
+    2,
+    4
+  ]
+},
+{
+  "id": 13557,
+  "game_title": "Pokemon White Version 2",
+  "release_date": "2012",
+  "platform": 8,
+  "region_id": 1,
+  "country_id": 50,
+  "developers": [
+    3314
+  ],
+  "genres": [
+    2,
+    4,
+    6
+  ]
+},
+{
+  "id": 18078,
+  "game_title": "Pokemon X",
+  "release_date": "2013",
+  "platform": 4912,
+  "region_id": 1,
+  "country_id": 0,
+  "developers": [
+    3314
+  ],
+  "genres": [
+    2,
+    4,
+    6
+  ]
+},
+{
+  "id": 7029,
+  "game_title": "Pokemon XD - Gale of Darkness",
+  "release_date": "2005",
+  "platform": 2,
+  "region_id": 2,
+  "country_id": 50,
+  "developers": [
+    3448
+  ],
+  "genres": [
+    2,
+    4,
+    6
+  ]
+},
+{
+  "id": 18079,
+  "game_title": "Pokemon Y",
+  "release_date": "2013",
+  "platform": 4912,
+  "region_id": 1,
+  "country_id": 0,
+  "developers": [
+    3314
+  ],
+  "genres": [
+    2,
+    4,
+    6
+  ]
+},
+{
+  "id": 2359,
+  "game_title": "Pokemon Yellow Version: Special Pikachu Edition",
+  "release_date": "1999",
+  "platform": 4,
+  "region_id": 1,
+  "country_id": 50,
+  "developers": [
+    3314
+  ],
+  "genres": [
+    4,
+    6
+  ]
+},
+{
+  "id": 26526,
+  "game_title": "Pokemon: Battle Revolution",
+  "release_date": "2007",
+  "platform": 9,
+  "region_id": 1,
+  "country_id": 0,
+  "developers": [
+    3448
+  ],
+  "genres": [
+    4,
+    6
+  ]
+},
+{
+  "id": 118855,
+  "game_title": "Pokemon: Let's Go, Eevee!",
+  "release_date": "2018",
+  "platform": 4971,
+  "region_id": 6,
+  "country_id": 4,
+  "developers": [
+    3314
+  ],
+  "genres": [
+    2,
+    4,
+    6
+  ]
+},
+{
+  "id": 55724,
+  "game_title": "Pokemon: Let's Go, Pikachu!",
+  "release_date": "2018-11-16",
+  "platform": 4971,
+  "region_id": 2,
+  "country_id": 50,
+  "developers": [
+    3314
+  ],
+  "genres": [
+    2,
+    4,
+    6
+  ]
+},
+{
+  "id": 77800,
+  "game_title": "New Pokemon Snap",
+  "release_date": "2021",
+  "platform": 4971,
+  "region_id": 2,
+  "country_id": 50,
+  "developers": [
+    902
+  ],
+  "genres": [
+    2,
+    8
+  ]
+},
+{
+  "id": 2519,
+  "game_title": "Pikmin",
+  "release_date": "2001",
+  "platform": 2,
+  "region_id": 2,
+  "country_id": 0,
+  "developers": [
+    6043
+  ],
+  "genres": [
+    2,
+    6
+  ]
+},
+{
+  "id": 6778,
+  "game_title": "Pikmin 2",
+  "release_date": "2004",
+  "platform": 2,
+  "region_id": 2,
+  "country_id": 50,
+  "developers": [
+    6037
+  ],
+  "genres": [
+    6
+  ]
+},
+{
+  "id": 16079,
+  "game_title": "Pikmin 3",
+  "release_date": "2013",
+  "platform": 38,
+  "region_id": 2,
+  "country_id": 0,
+  "developers": [
+    6043
+  ],
+  "genres": [
+    5,
+    6
+  ]
+},
+{
+  "id": 266,
+  "game_title": "Mario Kart 64",
+  "release_date": "1997",
+  "platform": 3,
+  "region_id": 1,
+  "country_id": 50,
+  "developers": [
+    6043
+  ],
+  "genres": [
+    7
+  ]
+},
+{
+  "id": 12733,
+  "game_title": "Mario Kart 7",
+  "release_date": "2011",
+  "platform": 4912,
+  "region_id": 2,
+  "country_id": 0,
+  "developers": [
+    7160
+  ],
+  "genres": [
+    7
+  ]
+},
+{
+  "id": 17444,
+  "game_title": "Mario Kart 8",
+  "release_date": "2014",
+  "platform": 38,
+  "region_id": 2,
+  "country_id": 0,
+  "developers": [
+    6037
+  ],
+  "genres": [
+    1,
+    7,
+    11
+  ]
+},
+{
+  "id": 42294,
+  "game_title": "Mario Kart 8 Deluxe",
+  "release_date": "2017",
+  "platform": 4971,
+  "region_id": 2,
+  "country_id": 0,
+  "developers": [
+    6037
+  ],
+  "genres": [
+    7
+  ]
+},
+{
+  "id": 8704,
+  "game_title": "Mario Kart: Super Circuit",
+  "release_date": "2001",
+  "platform": 5,
+  "region_id": 2,
+  "country_id": 0,
+  "developers": [
+    4248
+  ],
+  "genres": [
+    7
+  ]
+},
+{
+  "id": 6837,
+  "game_title": "Mario Kart DS",
+  "release_date": "2005",
+  "platform": 8,
+  "region_id": 2,
+  "country_id": 50,
+  "developers": [
+    6043
+  ],
+  "genres": [
+    7
+  ]
+},
+{
+  "id": 169,
+  "game_title": "Mario Kart Wii",
+  "release_date": "2008",
+  "platform": 9,
+  "region_id": 1,
+  "country_id": 50,
+  "developers": [
+    6037
+  ],
+  "genres": [
+    1,
+    7
+  ]
+},
+{
+  "id": 166,
+  "game_title": "Mario Kart: Double Dash!!",
+  "release_date": "2003",
+  "platform": 2,
+  "region_id": 1,
+  "country_id": 50,
+  "developers": [
+    6037
+  ],
+  "genres": [
+    1,
+    7,
+    11
+  ]
+},
+{
+  "id": 115789,
+  "game_title": "Super Mario Odyssey",
+  "release_date": "2017",
+  "platform": 4971,
+  "region_id": 6,
+  "country_id": 18,
+  "developers": [
+    6043
+  ],
+  "genres": [
+    2,
+    15
+  ]
+},
+{
+  "id": 119552,
+  "game_title": "Super Mario Bros. Wonder",
+  "release_date": "2023",
+  "platform": 4971,
+  "region_id": 6,
+  "country_id": 0,
+  "developers": [
+    10297
+  ],
+  "genres": [
+    2,
+    15
+  ]
+},
+{
+  "id": 6859,
+  "game_title": "New Super Mario Bros.",
+  "release_date": "2006",
+  "platform": 8,
+  "region_id": 2,
+  "country_id": 50,
+  "developers": [
+    6043
+  ],
+  "genres": [
+    15
+  ]
+},
+{
+  "id": 12504,
+  "game_title": "New Super Mario Bros. 2",
+  "release_date": "2012",
+  "platform": 4912,
+  "region_id": 2,
+  "country_id": 0,
+  "developers": [
+    6037
+  ],
+  "genres": [
+    1,
+    15
+  ]
+},
+{
+  "id": 9060,
+  "game_title": "New Super Mario Bros. U",
+  "release_date": "2012",
+  "platform": 38,
+  "region_id": 2,
+  "country_id": 0,
+  "developers": [
+    6043
+  ],
+  "genres": [
+    1,
+    2,
+    15
+  ]
+},
+{
+  "id": 170,
+  "game_title": "New Super Mario Bros. Wii",
+  "release_date": "2009",
+  "platform": 9,
+  "region_id": 2,
+  "country_id": 50,
+  "developers": [
+    6043
+  ],
+  "genres": [
+    1,
+    2,
+    15
+  ]
+},
+{
+  "id": 123731,
+  "game_title": "Paper Mario: Color Splash",
+  "release_date": "2016",
+  "platform": 38,
+  "region_id": 6,
+  "country_id": 0,
+  "developers": [
+    4248
+  ],
+  "genres": [
+    1,
+    2,
+    4
+  ]
+},
+{
+  "id": 12707,
+  "game_title": "Paper Mario: Sticker Star",
+  "release_date": "2012",
+  "platform": 4912,
+  "region_id": 0,
+  "country_id": 0,
+  "developers": [
+    4248
+  ],
+  "genres": [
+    4
+  ]
+},
+{
+  "id": 72406,
+  "game_title": "Paper Mario: The Origami King",
+  "release_date": "2020",
+  "platform": 4971,
+  "region_id": 1,
+  "country_id": 0,
+  "developers": [
+    4248
+  ],
+  "genres": [
+    2,
+    4
+  ]
+},
+{
+  "id": 2319,
+  "game_title": "Paper Mario: The Thousand-Year Door",
+  "release_date": "2004",
+  "platform": 2,
+  "region_id": 1,
+  "country_id": 50,
+  "developers": [
+    4248
+  ],
+  "genres": [
+    2,
+    4
+  ]
+},
+{
+  "id": 126692,
+  "game_title": "Super Mario Bros.",
+  "release_date": "1985",
+  "platform": 7,
+  "region_id": 4,
+  "country_id": 28,
+  "developers": [
+    6055
+  ],
+  "genres": [
+    15
+  ]
+},
+{
+  "id": 82747,
+  "game_title": "Super Mario Land",
+  "release_date": "1989",
+  "platform": 4,
+  "region_id": 4,
+  "country_id": 28,
+  "developers": [
+    6051
+  ],
+  "genres": [
+    15
+  ]
+},
+{
+  "id": 75969,
+  "game_title": "Super Mario 64",
+  "release_date": "1996",
+  "platform": 3,
+  "region_id": 4,
+  "country_id": 28,
+  "developers": [
+    6043
+  ],
+  "genres": [
+    1,
+    2,
+    5,
+    15
+  ]
+},
+{
+  "id": 109984,
+  "game_title": "Super Mario 3D Land",
+  "release_date": "2011",
+  "platform": 4912,
+  "region_id": 4,
+  "country_id": 28,
+  "developers": [
+    6037
+  ],
+  "genres": [
+    1,
+    2,
+    15
+  ]
+},
+{
+  "id": 123734,
+  "game_title": "Super Mario 3D World",
+  "release_date": "2013",
+  "platform": 38,
+  "region_id": 4,
+  "country_id": 0,
+  "developers": [
+    6045
+  ],
+  "genres": [
+    1,
+    2,
+    15
+  ]
+},
+{
+  "id": 83376,
+  "game_title": "Super Mario World",
+  "release_date": "1991",
+  "platform": 6,
+  "region_id": 4,
+  "country_id": 28,
+  "developers": [
+    6043
+  ],
+  "genres": [
+    15
+  ]
+},
+{
+  "id": 171,
+  "game_title": "Super Mario Bros. 2",
+  "release_date": "1988",
+  "platform": 7,
+  "region_id": 1,
+  "country_id": 50,
+  "developers": [
+    6055
+  ],
+  "genres": [
+    15
+  ]
+},
+{
+  "id": 112,
+  "game_title": "Super Mario Bros. 3",
+  "release_date": "1990",
+  "platform": 7,
+  "region_id": 1,
+  "country_id": 50,
+  "developers": [
+    6055
+  ],
+  "genres": [
+    15
+  ]
+},
+{
+  "id": 40,
+  "game_title": "Super Mario Galaxy",
+  "release_date": "2007",
+  "platform": 9,
+  "region_id": 2,
+  "country_id": 0,
+  "developers": [
+    6037
+  ],
+  "genres": [
+    1,
+    2,
+    15
+  ]
+},
+{
+  "id": 908,
+  "game_title": "Super Mario Galaxy 2",
+  "release_date": "2010",
+  "platform": 9,
+  "region_id": 2,
+  "country_id": 0,
+  "developers": [
+    6045
+  ],
+  "genres": [
+    1,
+    2,
+    15
+  ]
+},
+{
+  "id": 1727,
+  "game_title": "Super Mario Land 2: 6 Golden Coins",
+  "release_date": "1992",
+  "platform": 4,
+  "region_id": 2,
+  "country_id": 50,
+  "developers": [
+    6051
+  ],
+  "genres": [
+    15
+  ]
+},
+{
+  "id": 31277,
+  "game_title": "Super Mario Maker",
+  "release_date": "2015",
+  "platform": 38,
+  "region_id": 2,
+  "country_id": 0,
+  "developers": [
+    6037
+  ],
+  "genres": [
+    12,
+    15
+  ]
+},
+{
+  "id": 63383,
+  "game_title": "Super Mario Maker 2",
+  "release_date": "2019",
+  "platform": 4971,
+  "region_id": 1,
+  "country_id": 0,
+  "developers": [
+    6037
+  ],
+  "genres": [
+    12,
+    15
+  ]
+},
+{
+  "id": 42320,
+  "game_title": "Super Mario Odyssey",
+  "release_date": "2017",
+  "platform": 4971,
+  "region_id": 2,
+  "country_id": 0,
+  "developers": [
+    6037
+  ],
+  "genres": [
+    1,
+    15
+  ]
+},
+{
+  "id": 2236,
+  "game_title": "Super Mario Sunshine",
+  "release_date": "2002",
+  "platform": 2,
+  "region_id": 2,
+  "country_id": 0,
+  "developers": [
+    6043
+  ],
+  "genres": [
+    1,
+    2,
+    15
+  ]
+},
+{
+  "id": 2758,
+  "game_title": "Zelda II: The Adventure of Link",
+  "release_date": "1988",
+  "platform": 7,
+  "region_id": 2,
+  "country_id": 50,
+  "developers": [
+    6055
+  ],
+  "genres": [
+    1,
+    4,
+    15
+  ]
+},
+{
+  "id": 98521,
+  "game_title": "The Legend of Zelda: Breath of the Wild",
+  "release_date": "2017",
+  "platform": 38,
+  "region_id": 6,
+  "country_id": 40,
+  "developers": [
+    6037
+  ],
+  "genres": [
+    1,
+    2
+  ]
+},
+{
+  "id": 18165,
+  "game_title": "The Legend of Zelda: A Link Between Worlds",
+  "release_date": "2013",
+  "platform": 4912,
+  "region_id": 2,
+  "country_id": 0,
+  "developers": [
+    6043
+  ],
+  "genres": [
+    1,
+    2
+  ]
+},
+{
+  "id": 104362,
+  "game_title": "The Legend of Zelda: Tears of the Kingdom",
+  "release_date": "2023",
+  "platform": 4971,
+  "region_id": 2,
+  "country_id": 50,
+  "developers": [
+    10297
+  ],
+  "genres": [
+    1,
+    2
+  ]
+},
+{
+  "id": 103960,
+  "game_title": "The Legend of Zelda: Ocarina of Time",
+  "release_date": "1998",
+  "platform": 3,
+  "region_id": 6,
+  "country_id": 0,
+  "developers": [
+    6043
+  ],
+  "genres": [
+    1,
+    2
+  ]
+},
+{
+  "id": 5954,
+  "game_title": "The Legend of Zelda The Minish Cap",
+  "release_date": "2005",
+  "platform": 5,
+  "region_id": 1,
+  "country_id": 0,
+  "developers": [
+    1436
+  ],
+  "genres": [
+    1,
+    2,
+    4
+  ]
+},
+{
+  "id": 89671,
+  "game_title": "The Legend of Zelda: Skyward Sword HD",
+  "release_date": "2021",
+  "platform": 4971,
+  "region_id": 6,
+  "country_id": 0,
+  "developers": [
+    10169
+  ],
+  "genres": [
+    1,
+    2
+  ]
+},
+{
+  "id": 111116,
+  "game_title": "The Legend of Zelda: A Link to the Past and Four Swords",
+  "release_date": "2002",
+  "platform": 5,
+  "region_id": 6,
+  "country_id": 0,
+  "developers": null,
+  "genres": [
+    1,
+    2,
+    4
+  ]
+},
+{
+  "id": 110113,
+  "game_title": "The Legend of Zelda: A Link Between Worlds",
+  "release_date": "2013",
+  "platform": 4912,
+  "region_id": 6,
+  "country_id": 0,
+  "developers": [
+    6043
+  ],
+  "genres": [
+    1,
+    2
+  ]
+},
+{
+  "id": 1318,
+  "game_title": "The Legend of Zelda: A Link to the Past",
+  "release_date": "1992",
+  "platform": 6,
+  "region_id": 2,
+  "country_id": 50,
+  "developers": [
+    6043
+  ],
+  "genres": [
+    1,
+    2
+  ]
+},
+{
+  "id": 107337,
+  "game_title": "The Legend of Zelda: Echoes of the Past",
+  "release_date": "2021-06-05",
+  "platform": 6,
+  "region_id": 9,
+  "country_id": 0,
+  "developers": [
+    142
+  ],
+  "genres": [
+    1,
+    2,
+    28
+  ]
+},
+{
+  "id": 6996,
+  "game_title": "The Legend of Zelda: Four Swords Adventures",
+  "release_date": "2004",
+  "platform": 2,
+  "region_id": 1,
+  "country_id": 0,
+  "developers": [
+    1443,
+    6037
+  ],
+  "genres": [
+    1,
+    2
+  ]
+},
+{
+  "id": 3193,
+  "game_title": "The Legend of Zelda: Link's Awakening",
+  "release_date": "1993",
+  "platform": 4,
+  "region_id": 2,
+  "country_id": 50,
+  "developers": [
+    6043
+  ],
+  "genres": [
+    1,
+    2
+  ]
+},
+{
+  "id": 175,
+  "game_title": "The Legend of Zelda: Majora's Mask",
+  "release_date": "2000",
+  "platform": 3,
+  "region_id": 1,
+  "country_id": 50,
+  "developers": [
+    6043
+  ],
+  "genres": [
+    1,
+    2
+  ]
+},
+{
+  "id": 161,
+  "game_title": "The Legend of Zelda: Ocarina of Time",
+  "release_date": "1998",
+  "platform": 3,
+  "region_id": 1,
+  "country_id": 50,
+  "developers": [
+    6043
+  ],
+  "genres": [
+    1,
+    2
+  ]
+},
+{
+  "id": 6122,
+  "game_title": "The Legend of Zelda: Oracle of Ages",
+  "release_date": "2001",
+  "platform": 41,
+  "region_id": 2,
+  "country_id": 50,
+  "developers": [
+    1436,
+    3072
+  ],
+  "genres": [
+    1,
+    2
+  ]
+},
+{
+  "id": 6123,
+  "game_title": "The Legend of Zelda: Oracle of Seasons",
+  "release_date": "2001",
+  "platform": 41,
+  "region_id": 2,
+  "country_id": 50,
+  "developers": [
+    1436,
+    3072
+  ],
+  "genres": [
+    1,
+    2
+  ]
+},
+{
+  "id": 2245,
+  "game_title": "The Legend of Zelda: Phantom Hourglass",
+  "release_date": "2007",
+  "platform": 8,
+  "region_id": 2,
+  "country_id": 0,
+  "developers": [
+    6043
+  ],
+  "genres": [
+    1,
+    2,
+    4,
+    5
+  ]
+},
+{
+  "id": 8080,
+  "game_title": "The Legend of Zelda: Skyward Sword",
+  "release_date": "2011",
+  "platform": 9,
+  "region_id": 1,
+  "country_id": 50,
+  "developers": [
+    6043
+  ],
+  "genres": [
+    1,
+    2,
+    4,
+    5,
+    15
+  ]
+},
+{
+  "id": 174,
+  "game_title": "The Legend of Zelda: The Wind Waker",
+  "release_date": "2003",
+  "platform": 2,
+  "region_id": 2,
+  "country_id": 50,
+  "developers": [
+    6043
+  ],
+  "genres": [
+    1,
+    2,
+    4,
+    5,
+    15
+  ]
+},
+{
+  "id": 32311,
+  "game_title": "The Legend of Zelda: Tri Force Heroes",
+  "release_date": "2015",
+  "platform": 4912,
+  "region_id": 2,
+  "country_id": 0,
+  "developers": [
+    3628,
+    10297
+  ],
+  "genres": [
+    1,
+    2
+  ]
+},
+{
+  "id": 109,
+  "game_title": "The Legend of Zelda: Twilight Princess",
+  "release_date": "2006",
+  "platform": 9,
+  "region_id": 2,
+  "country_id": 0,
+  "developers": [
+    6037
+  ],
+  "genres": [
+    1,
+    2,
+    4,
+    5,
+    15
+  ]
+},
+{
+  "id": 113,
+  "game_title": "The Legend of Zelda",
+  "release_date": "1987",
+  "platform": 7,
+  "region_id": 2,
+  "country_id": 50,
+  "developers": [
+    6055
+  ],
+  "genres": [
+    1,
+    2
+  ]
+},
+{
+  "id": 93188,
+  "game_title": "Kirby and the Forgotten Land",
+  "release_date": "2022",
+  "platform": 4971,
+  "region_id": 1,
+  "country_id": 50,
+  "developers": [
+    3697
+  ],
+  "genres": [
+    1,
+    2,
+    15
+  ]
+},
+{
+  "id": 262,
+  "game_title": "Kirby 64: The Crystal Shards",
+  "release_date": "2000",
+  "platform": 3,
+  "region_id": 1,
+  "country_id": 50,
+  "developers": [
+    3697
+  ],
+  "genres": [
+    15
+  ]
+},
+{
+  "id": 50622,
+  "game_title": "Kirby Star Allies",
+  "release_date": "2018",
+  "platform": 4971,
+  "region_id": 2,
+  "country_id": 0,
+  "developers": [
+    3697
+  ],
+  "genres": [
+    1,
+    15
+  ]
+},
+{
+  "id": 1315,
+  "game_title": "Kirby Super Star",
+  "release_date": "1996",
+  "platform": 6,
+  "region_id": 2,
+  "country_id": 50,
+  "developers": [
+    3694
+  ],
+  "genres": [
+    15
+  ]
+},
+{
+  "id": 41192,
+  "game_title": "Kirby: Planet Robobot",
+  "release_date": "2016",
+  "platform": 4912,
+  "region_id": 0,
+  "country_id": 0,
+  "developers": [
+    3694
+  ],
+  "genres": [
+    15
+  ]
+},
+{
+  "id": 6815,
+  "game_title": "Kirby: Squeak Squad",
+  "release_date": "2006",
+  "platform": 8,
+  "region_id": 0,
+  "country_id": 0,
+  "developers": [
+    3694
+  ],
+  "genres": [
+    1,
+    2,
+    15
+  ]
+},
+{
+  "id": 20488,
+  "game_title": "Kirby: Triple Deluxe",
+  "release_date": "2014",
+  "platform": 4912,
+  "region_id": 0,
+  "country_id": 0,
+  "developers": [
+    3694
+  ],
+  "genres": [
+    15
+  ]
+},
+{
+  "id": 7927,
+  "game_title": "Kirby's Return To Dream Land",
+  "release_date": "2011",
+  "platform": 9,
+  "region_id": 1,
+  "country_id": 0,
+  "developers": [
+    3694
+  ],
+  "genres": [
+    1
+  ]
+},
+{
+  "id": 5608,
+  "game_title": "Kirby's Epic Yarn",
+  "release_date": "2010",
+  "platform": 9,
+  "region_id": 0,
+  "country_id": 0,
+  "developers": [
+    3694
+  ],
+  "genres": [
+    15
+  ]
+},
+{
+  "id": 61019,
+  "game_title": "Kirby's Extra Epic Yarn",
+  "release_date": "2019",
+  "platform": 4912,
+  "region_id": 0,
+  "country_id": 0,
+  "developers": [
+    3536
+  ],
+  "genres": [
+    1,
+    15
+  ]
+},
+{
+  "id": 121,
+  "game_title": "Kirby's Adventure",
+  "release_date": "1993",
+  "platform": 7,
+  "region_id": 2,
+  "country_id": 50,
+  "developers": [
+    3697
+  ],
+  "genres": [
+    15
+  ]
+},
+{
+  "id": 8706,
+  "game_title": "Kirby's Dream Land",
+  "release_date": "1992",
+  "platform": 4,
+  "region_id": 2,
+  "country_id": 50,
+  "developers": [
+    3694
+  ],
+  "genres": [
+    15
+  ]
+},
+{
+  "id": 3190,
+  "game_title": "Kirby's Dream Land 2",
+  "release_date": "1995",
+  "platform": 4,
+  "region_id": 2,
+  "country_id": 50,
+  "developers": [
+    3694
+  ],
+  "genres": [
+    15
+  ]
+},
+{
+  "id": 3208,
+  "game_title": "Kirby's Dream Land 3",
+  "release_date": "1997",
+  "platform": 6,
+  "region_id": 2,
+  "country_id": 50,
+  "developers": [
+    3694
+  ],
+  "genres": [
+    15
+  ]
+},
+{
+  "id": 104491,
+  "game_title": "Pikmin 4",
+  "release_date": "2023",
+  "platform": 4971,
+  "region_id": 1,
+  "country_id": 50,
+  "developers": [
+    6048
+  ],
+  "genres": [
+    2,
+    5,
+    6
+  ]
+},
+{
+  "id": 123,
+  "game_title": "Metroid",
+  "release_date": "1987",
+  "platform": 7,
+  "region_id": 2,
+  "country_id": 50,
+  "developers": [
+    4248,
+    6051
+  ],
+  "genres": [
+    1,
+    2,
+    15
+  ]
+},
+{
+  "id": 83385,
+  "game_title": "Super Metroid",
+  "release_date": "1994",
+  "platform": 6,
+  "region_id": 4,
+  "country_id": 28,
+  "developers": [
+    6037
+  ],
+  "genres": [
+    1,
+    2,
+    15
+  ]
+},
+{
+  "id": 121672,
+  "game_title": "Metroid Dread",
+  "release_date": "2021",
+  "platform": 4971,
+  "region_id": 1,
+  "country_id": 31,
+  "developers": [
+    5388,
+    10297
+  ],
+  "genres": [
+    1
+  ]
+},
+{
+  "id": 2638,
+  "game_title": "Metroid Fusion",
+  "release_date": "2002",
+  "platform": 5,
+  "region_id": 1,
+  "country_id": 50,
+  "developers": [
+    6051
+  ],
+  "genres": [
+    1,
+    2,
+    8,
+    15
+  ]
+},
+{
+  "id": 6771,
+  "game_title": "Metroid II: Return of Samus",
+  "release_date": "1991",
+  "platform": 4,
+  "region_id": 2,
+  "country_id": 50,
+  "developers": [
+    6051
+  ],
+  "genres": [
+    1,
+    2,
+    15
+  ]
+},
+{
+  "id": 172,
+  "game_title": "Metroid Prime",
+  "release_date": "2002",
+  "platform": 2,
+  "region_id": 2,
+  "country_id": 50,
+  "developers": [
+    7160
+  ],
+  "genres": [
+    1,
+    2,
+    8,
+    15
+  ]
+},
+{
+  "id": 6426,
+  "game_title": "Metroid Prime 2: Echoes",
+  "release_date": "2004",
+  "platform": 2,
+  "region_id": 1,
+  "country_id": 50,
+  "developers": [
+    7160
+  ],
+  "genres": [
+    1,
+    2,
+    8,
+    15
+  ]
+},
+{
+  "id": 233,
+  "game_title": "Metroid Prime 3: Corruption",
+  "release_date": "2007",
+  "platform": 9,
+  "region_id": 2,
+  "country_id": 50,
+  "developers": [
+    7160
+  ],
+  "genres": [
+    1,
+    2,
+    8,
+    15
+  ]
+},
+{
+  "id": 109548,
+  "game_title": "Metroid Prime Remastered",
+  "release_date": "2023",
+  "platform": 4971,
+  "region_id": 1,
+  "country_id": 50,
+  "developers": [
+    4348,
+    7160
+  ],
+  "genres": [
+    1,
+    2,
+    15
+  ]
+},
+{
+  "id": 2388,
+  "game_title": "Metroid: Other M",
+  "release_date": "2010",
+  "platform": 9,
+  "region_id": 1,
+  "country_id": 50,
+  "developers": [
+    8563
+  ],
+  "genres": [
+    1,
+    2,
+    8,
+    15
+  ]
+},
+{
+  "id": 46993,
+  "game_title": "Metroid: Samus Returns",
+  "release_date": "2017",
+  "platform": 4912,
+  "region_id": 2,
+  "country_id": 50,
+  "developers": [
+    5388
+  ],
+  "genres": [
+    1,
+    8,
+    15
+  ]
+},
+{
+  "id": 3745,
+  "game_title": "Metroid: Zero Mission",
+  "release_date": "2004",
+  "platform": 5,
+  "region_id": 2,
+  "country_id": 50,
+  "developers": [
+    6037
+  ],
+  "genres": [
+    1,
+    2,
+    8,
+    15
+  ]
+},
+{
+  "id": 3428,
+  "game_title": "Fire Emblem",
+  "release_date": "2003",
+  "platform": 5,
+  "region_id": 2,
+  "country_id": 50,
+  "developers": [
+    4248
+  ],
+  "genres": [
+    4,
+    6
+  ]
+},
+{
+  "id": 46050,
+  "game_title": "Fire Emblem Echoes: Shadows of Valentia",
+  "release_date": "2017",
+  "platform": 4912,
+  "region_id": 1,
+  "country_id": 0,
+  "developers": [
+    4248
+  ],
+  "genres": [
+    4,
+    6
+  ]
+},
+{
+  "id": 106753,
+  "game_title": "Fire Emblem Engage",
+  "release_date": "2023",
+  "platform": 4971,
+  "region_id": 1,
+  "country_id": 50,
+  "developers": [
+    10202
+  ],
+  "genres": [
+    4,
+    6
+  ]
+},
+{
+  "id": 35066,
+  "game_title": "Fire Emblem Fates: Birthright",
+  "release_date": "2016",
+  "platform": 4912,
+  "region_id": 1,
+  "country_id": 50,
+  "developers": [
+    4248
+  ],
+  "genres": [
+    4,
+    6
+  ]
+},
+{
+  "id": 35067,
+  "game_title": "Fire Emblem Fates: Conquest",
+  "release_date": "2016",
+  "platform": 4912,
+  "region_id": 1,
+  "country_id": 50,
+  "developers": [
+    4248
+  ],
+  "genres": [
+    4,
+    6
+  ]
+},
+{
+  "id": 46096,
+  "game_title": "Fire Emblem Fates: Revelation",
+  "release_date": "2016",
+  "platform": 4912,
+  "region_id": 0,
+  "country_id": 0,
+  "developers": [
+    4248
+  ],
+  "genres": [
+    4,
+    6
+  ]
+},
+{
+  "id": 14459,
+  "game_title": "Fire Emblem: Awakening",
+  "release_date": "2013",
+  "platform": 4912,
+  "region_id": 2,
+  "country_id": 0,
+  "developers": [
+    4248
+  ],
+  "genres": [
+    4,
+    6
+  ]
+},
+{
+  "id": 6978,
+  "game_title": "Fire Emblem: Path of Radiance",
+  "release_date": "2005",
+  "platform": 2,
+  "region_id": 0,
+  "country_id": 0,
+  "developers": [
+    4248
+  ],
+  "genres": [
+    4,
+    6
+  ]
+},
+{
+  "id": 7637,
+  "game_title": "Fire Emblem: Radiant Dawn",
+  "release_date": "2007",
+  "platform": 9,
+  "region_id": 1,
+  "country_id": 0,
+  "developers": [
+    4248
+  ],
+  "genres": [
+    4,
+    6
+  ]
+},
+{
+  "id": 6803,
+  "game_title": "Fire Emblem: Shadow Dragon",
+  "release_date": "2009",
+  "platform": 8,
+  "region_id": 0,
+  "country_id": 0,
+  "developers": [
+    4248
+  ],
+  "genres": [
+    4,
+    6
+  ]
+},
+{
+  "id": 3429,
+  "game_title": "Fire Emblem: The Sacred Stones",
+  "release_date": "2005",
+  "platform": 5,
+  "region_id": 1,
+  "country_id": 0,
+  "developers": [
+    4248
+  ],
+  "genres": [
+    4,
+    6
+  ]
+},
+{
+  "id": 60625,
+  "game_title": "Fire Emblem: Three Houses",
+  "release_date": "2019",
+  "platform": 4971,
+  "region_id": 1,
+  "country_id": 0,
+  "developers": [
+    4744,
+    10202
+  ],
+  "genres": [
+    4,
+    6
+  ]
+},
+{
+  "id": 5768,
+  "game_title": "Animal Crossing",
+  "release_date": "2002",
+  "platform": 2,
+  "region_id": 1,
+  "country_id": 0,
+  "developers": [
+    6043
+  ],
+  "genres": [
+    2,
+    4,
+    9
+  ]
+},
+{
+  "id": 7305,
+  "game_title": "Animal Crossing: City Folk",
+  "release_date": "2008",
+  "platform": 9,
+  "region_id": 0,
+  "country_id": 0,
+  "developers": [
+    6037
+  ],
+  "genres": [
+    3
+  ]
+},
+{
+  "id": 61029,
+  "game_title": "Animal Crossing: New Horizons",
+  "release_date": "2020",
+  "platform": 4971,
+  "region_id": 2,
+  "country_id": 0,
+  "developers": [
+    6037
+  ],
+  "genres": [
+    9
+  ]
+},
+{
+  "id": 17019,
+  "game_title": "Animal Crossing: New Leaf",
+  "release_date": "2013",
+  "platform": 4912,
+  "region_id": 1,
+  "country_id": 50,
+  "developers": [
+    6043
+  ],
+  "genres": [
+    9
+  ]
+},
+{
+  "id": 6573,
+  "game_title": "Animal Crossing: Wild World",
+  "release_date": "2005",
+  "platform": 8,
+  "region_id": 0,
+  "country_id": 0,
+  "developers": [
+    6037
+  ],
+  "genres": [
+    9
+  ]
+},
+{
+  "id": 3518,
+  "game_title": "Super Smash Bros. Brawl",
+  "release_date": "2008",
+  "platform": 9,
+  "region_id": 1,
+  "country_id": 0,
+  "developers": [
+    3301,
+    10064
+  ],
+  "genres": [
+    1,
+    10,
+    11,
+    15
+  ]
+},
+{
+  "id": 23464,
+  "game_title": "Super Smash Bros. for Nintendo 3DS",
+  "release_date": "2014",
+  "platform": 4912,
+  "region_id": 0,
+  "country_id": 0,
+  "developers": [
+    902,
+    10064
+  ],
+  "genres": [
+    10,
+    23
+  ]
+},
+{
+  "id": 11151,
+  "game_title": "Super Smash Bros. for Wii U",
+  "release_date": "2014",
+  "platform": 38,
+  "region_id": 2,
+  "country_id": 0,
+  "developers": [
+    902,
+    10064
+  ],
+  "genres": [
+    1,
+    11,
+    15
+  ]
+},
+{
+  "id": 5654,
+  "game_title": "Super Smash Bros. Melee",
+  "release_date": "2001",
+  "platform": 2,
+  "region_id": 1,
+  "country_id": 0,
+  "developers": [
+    3694
+  ],
+  "genres": [
+    1,
+    10,
+    15
+  ]
+},
+{
+  "id": 60766,
+  "game_title": "Super Smash Bros. Ultimate",
+  "release_date": "2018",
+  "platform": 4971,
+  "region_id": 2,
+  "country_id": 0,
+  "developers": [
+    902,
+    10064
+  ],
+  "genres": [
+    1,
+    10,
+    15
+  ]
+},
+{
+  "id": 404,
+  "game_title": "Super Smash Bros.",
+  "release_date": "1999",
+  "platform": 3,
+  "region_id": 1,
+  "country_id": 50,
+  "developers": [
+    3697
+  ],
+  "genres": [
+    10
+  ]
+}
+]
+}
